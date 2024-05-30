@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "487813113659",
+    "firebase_url": "https://gardenerapp-2aa40-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "gardenerapp-2aa40",
+    "storage_bucket": "gardenerapp-2aa40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487813113659:android:bb76655a6ac89dbbb8b91e",
+        "android_client_info": {
+          "package_name": "com.csm.gardenapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAytgR273KGn0o9HYBnftfl51EYKc6VD9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Календарь садовника</string>
+    <string name="welcome">Добро пожаловать</string>
+    <string name="next">Далее</string>
+
+    <string name="directory_title">Справочник</string>
+    <string name="calendar_title">Календарь</string>
+    <string name="notes_title">Заметки</string>
+
+    <string name="directory_desc">Просматривайте информацию по растениям, уходу за ними и методам выращивания.</string>
+    <string name="calendar_desc">Узнавайте, когда лучше всего сажать разные виды растений.</string>
+    <string name="notes_desc">Добавляйте личные заметки о процессе выращивания и посадки.</string>
+
+    <string name="login_to_acc">Войдите в аккаунт</string>
+    <string name="login">Войти</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="no_account">Еще нет аккаунта? Регистрация</string>
+    <string name="register">Зарегистрируйтесь</string>
+    <string name="registration">Регистрация</string>
+    <string name="username">Имя пользователя</string>
+    <string name="registration_successful">Регистрация прошла успешно</string>
+    <string name="to_main">На главную</string>
+
+    <string name="directory">Справочник</string>
+    <string name="calendar">Календарь</string>
+    <string name="notes">Заметки</string>
+    <string name="profile">Профиль</string>
+    <string name="save">Сохранить</string>
+    <string name="about_us">О нас</string>
+    <string name="faq">Частые вопросы</string>
+</resources>
